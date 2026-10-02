@@ -12,7 +12,7 @@ These are unofficial builds, not affiliated with or endorsed by the upstream pro
 docker run --rm --user "$(id -u):$(id -g)" -v "$PWD:/work" ghcr.io/randomcontainers/weasyprint-qpdf report.html report.pdf
 ```
 
-The same images can also be pulled as `randomcontainers.com/weasyprint-qpdf`. The examples in the [weasyprint README](https://github.com/randomcontainers/weasyprint#readme) work with this image too.
+The examples in the [weasyprint README](https://github.com/randomcontainers/weasyprint#readme) work with this image too.
 
 ## Tags
 
